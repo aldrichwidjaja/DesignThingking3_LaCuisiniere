@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1018087529625",
+    "firebase_url": "https://cuisinere-da36a.firebaseio.com",
+    "project_id": "cuisinere-da36a",
+    "storage_bucket": "cuisinere-da36a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018087529625:android:98f52595c137b5fb286c08",
+        "android_client_info": {
+          "package_name": "com.laviente.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018087529625-g7h65ne5rd8jejiu8uiepuitphg93pns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.laviente.flutter_app",
+            "certificate_hash": "6d3274fea0c3786e23a94349d42b15993be581f4"
+          }
+        },
+        {
+          "client_id": "1018087529625-ocpud72hdie0dee5vn0f977tapebhqc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7foi22AzmuBrIYEu1qxhA1SO4fqbL9xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018087529625-ocpud72hdie0dee5vn0f977tapebhqc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
